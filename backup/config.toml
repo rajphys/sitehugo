@@ -1,0 +1,50 @@
+baseurl = "http://rajphys.github.io"
+title = "Raj Kumar  Manna"
+copyright = "(c) 2015 Raj Kumar Manna."
+
+languageCode = "en-EN"
+theme = "hugo-bootstrap"
+paginate = 10
+paginatePath = "page"
+disqusShortname = "Raj"
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+    code = "/:slug/"
+
+[taxonomies]
+    tag = "tags"
+    topic = "topics"
+
+[author]
+    name = "Raj"
+    email = "rajphysics.mon@gmail.com"
+
+
+[params]
+    # You can use markdown here.
+    brand = "foobar"
+    topline = "few words about your site"
+    footline = "code with <i class='fa fa-heart'></i>"
+
+    # Text for the top menu link, which goes the root URL for the site.
+    # Default (if omitted) is "Home".
+    home = "home"
+
+    # Select a syntax highight.
+    # Check the static/css/highlight directory for options.
+    highlight = "default"
+
+    # Google Analytics.
+    googleAnalytics = "Your Google Analytics tracking code"
+
+    # Sidebar social links.
+    github = "enten/hugo-boilerplate" # Your Github profile ID
+    bitbucket = "" # Your Bitbucket profile ID
+    linkedin = "" # Your LinkedIn profile ID (from public URL)
+    googleplus = "" # Your Google+ profile ID
+    facebook = "" # Your Facebook profile ID
+    twitter = "" # Your Twitter profile ID
+    youtube = ""  # Your Youtube channel ID
+    flattr = ""  # populate with your flattr uid
+

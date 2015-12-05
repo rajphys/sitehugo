@@ -1,3 +1,11 @@
-baseurl = "https://rajphys.github.io"
-languageCode = "en-us"
+baseurl = "http://rajphys.github.io"
 title = "Raj Kumar Manna"
+theme = "bootie-docs"
+copyright = "Copyright (c) 2015, Raj Kumar Manna; All rights reserved."
+
+[params]
+  description = "Welcome to my home page"
+  withSitePosts = true
+  mainMenu = ["about", "resume"]
+  noCategoryLink = true
+  #repositoryUrl = "http://your-repository-url"

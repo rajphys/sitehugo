@@ -1,15 +1,13 @@
-+++
-date = "2015-11-03T10:23:28+05:30"
-draft = true
-title = "about"
+---
+title: "about1 file"
+description: "Welcome to the second blog post."
+date: "2015-12-05"
+categories: 
+    - "template"
+---
 
-+++
+## Sample Post 333
 
-
-# First try 
-
-Here is my first static web page
-
-
-We will try to bulid a new one
+To test a about page 
+here is alist of pages
 
