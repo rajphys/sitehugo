@@ -127,7 +127,7 @@ defaultContentLanguageInSubdir = false
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 3
+  weight = 2
 
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.
