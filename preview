@@ -1,1 +1,3 @@
-hugo -t bootie-docs server
+#!/bin/bash
+~/software/go/bin/hugo -t academic server
+#hugo -t bootie-docs server
