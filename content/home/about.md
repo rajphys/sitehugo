@@ -17,6 +17,12 @@ weight = 1
   ]
 
 # List your qualifications (such as academic degrees).
+
+#[[education.courses]]
+#  course = "PhD"
+#  institution = "Indian Institute of Technology Madras, Chennai, India"
+#  year = 2011
+
 [[education.courses]]
   course = "MSc in Physics"
   institution = "Indian Institute of Technology Madras, Chennai, India"
