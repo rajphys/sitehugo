@@ -2,7 +2,7 @@
 abstract = ""
 abstract_short = ""
 authors = ["Raj Kumar Manna, P. B. Sunil Kumar Manna, Ronojoy Adhikari"]
-date = "2015-09-01"
+date = "2016-12-28"
 image = ""
 image_preview = ""
 math = true
