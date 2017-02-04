@@ -1,6 +1,6 @@
 baseurl = "http://rajphys.github.io"
 title = "Raj Kumar Manna"
-copyright = "&copy; 2016 Your Name"
+copyright = "&copy; 2016 Raj Kumar Manna"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
