@@ -1,7 +1,7 @@
 +++
 abstract = ""
 abstract_short = ""
-authors = [" Raj Kumar Manna, Oleg E. Shklyaev, Howard A. Stone, and Anna C. Balazs"]
+authors = ["Benjamin M Tansi, Raj Kumar Manna, Oleg E Shklyaev, Matthew L Peris, Anna C Balazs, Ayusman Sen"]
 date = "2021-02-02"
 image = ""
 image_preview = ""
