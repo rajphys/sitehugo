@@ -17,10 +17,10 @@ url_dataset = ""
 #url_pdf = "https://pubs.rsc.org/en/content/articlelanding/2020/mh/d0mh00730g/unauth#!divAbstract"
 #url_project = "project/deep-learning/"
 #url_slides = ""
-url_video = "https://pubs.acs.org/doi/abs/10.1021/acsami.0c21291"
+url_video = "https://pubs.acs.org/doi/10.1021/acsami.0c21291?goto=supporting-info"
 [[url_custom]]
     name = "DOI"
-    url = "https://pubs.acs.org/doi/10.1021/acsami.0c21291?goto=supporting-info"
+    url = "https://pubs.acs.org/doi/abs/10.1021/acsami.0c21291"
 +++
 
 #More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
