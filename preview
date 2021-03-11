@@ -1,4 +1,4 @@
 #!/bin/bash
 #~/software/go/bin/hugo -t hugo-academic server
-hugo -t hugo-academic server
+../go/bin/hugo -t hugo-academic server
 #hugo -t bootie-docs server
