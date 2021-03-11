@@ -24,6 +24,12 @@ weight = 1
 #  year = 2011
 
 [[education.courses]]
+  course = "PhD in Physics"
+  institution = "Indian Institute of Technology Madras, Chennai, India"
+  year = 2018
+
+
+[[education.courses]]
   course = "MSc in Physics"
   institution = "Indian Institute of Technology Madras, Chennai, India"
   year = 2011
@@ -37,9 +43,12 @@ weight = 1
 
 # Biography
 
-I am a graduate student working with [Prof. P B Sunil Kumar](https://physics.iitm.ac.in/sunil/) and [Prof. Ronojoy Adhikari](https://ronojoy.github.io/) in the Department of Physics at Indian Institute of Technology Madras. My research interests are in the area of non-equlibrium soft condensed matter and biological physics. I use computer simulations to study the complex structures and dynamics of these systems. 
+I am currently a postdoctoral research associate in the group of [Prof. Anna Balazs](https://www.engineering.pitt.edu/AnnaBalazs/) at the Department of Chemical and Petroleum Engineering, University of Pittsburgh. My research interests are in the area of non-equilibrium soft condensed matter and biological physics. I use computer simulations to study the complex structures and dynamics of these systems. 
+
+I received my Ph.D. degree from the Department of Physics, Indian Institute of Technology Madras under the guidance of 
+ [Prof. P B Sunil Kumar](https://physics.iitm.ac.in/sunil/) and [Prof. Ronojoy Adhikari](https://ronojoy.github.io/). 
 
 
- Before joining as a research scholar, I obtained my master degree (M.Sc) in Physics from Department of Physics, IIT Madras and Bachelor of Science (B.Sc.) in Physics from Ramakrishna Mission Residential College Narendrapur, University of Calcutta.
+ 
 
 

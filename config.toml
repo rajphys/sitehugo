@@ -20,13 +20,13 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Raj Kumar Manna"
-  role = "Graduate Student"
-  organization = "Indian Institute of Technology Madras"
+  role = "Postdoctoral Scholar "
+  organization = "University of Pittsburgh"
   avatar = "raj5.jpg"
-  email = "raj@physics.iitm.ac.in"
-  address = "MSB-320, Complex Fluid and Biological Lab, Department of Physics, IIT madras, Chennai-600036"
+  email = "rkm36@pitt.edu"
+  address = "313 Schenley Place, 4420 Bayard Street, University of Pittsburgh, Pittsburgh, PA 15213"
   office_hours = ""
-  phone = "044 2257 9810"
+  phone = "412-648-9250"
   skype = ""
   telegram = ""
 
@@ -46,7 +46,7 @@ defaultContentLanguageInSubdir = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  custom_css = []
+  custom_css = ["green.css"]
   custom_js  = []
 
 
@@ -71,7 +71,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:rkm36@pitt.edu"
 
   #[[params.social]]
   #  icon = "twitter"

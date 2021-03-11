@@ -1,7 +1,7 @@
 +++
 abstract = ""
 abstract_short = ""
-authors = ["Raj Kumar Manna, P. B. Sunil Kumar Manna, Ronojoy Adhikari"]
+authors = ["Raj Kumar Manna, P. B. Sunil Kumar , Ronojoy Adhikari"]
 date = "2016-12-28"
 image = ""
 image_preview = ""
