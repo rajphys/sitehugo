@@ -1,9 +1,8 @@
 #!/bin/bash
-<<<<<<< HEAD
-~/software/go/bin/hugo -t hugo-academic server
-#hugo -t hugo-academic server
-=======
 #~/software/go/bin/hugo -t hugo-academic server
 ../go/bin/hugo -t hugo-academic server
->>>>>>> f92c7d66fa2085c1a35caa3677e5b22625ffb788
+#hugo -t hugo-academic server
+#~/software/go/bin/hugo -t hugo-academic server
+#../go/bin/hugo -t hugo-academic server
+#>>>>>>> f92c7d66fa2085c1a35caa3677e5b22625ffb788
 #hugo -t bootie-docs server
