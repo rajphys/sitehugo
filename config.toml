@@ -1,6 +1,6 @@
 baseurl = "http://rajphys.github.io"
 title = "Raj Kumar Manna"
-copyright = "&copy; 2016 Raj Kumar Manna"
+#copyright = "&copy; 2016 Raj Kumar Manna"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -26,7 +26,7 @@ defaultContentLanguageInSubdir = false
   email = "rkm36@pitt.edu"
   address = "313 Schenley Place, 4420 Bayard Street, University of Pittsburgh, Pittsburgh, PA 15213"
   office_hours = ""
-  phone = "412-648-9250"
+  phone = "+1 412-648-9250"
   skype = ""
   telegram = ""
 
@@ -104,24 +104,27 @@ defaultContentLanguageInSubdir = false
   url = "#about"
   weight = 1
 
+#[[menu.main]]
+#  name = "Publications"
+#  url = "#publications"
+#  weight = 2
+
+
 [[menu.main]]
   name = "Publications"
-  url = "#publications"
-  weight = 2
-
-
-#[[menu.main]]
-#  name = "Example"
-#  url = "example/"
-#  weight = 4
+  url = "publication1/"
+  weight = 4
 #[[menu.main]]
 #  name = "Posts"
 #  url = "#posts"
 #  weight = 2
 
+
+
+
 #[[menu.main]]
 #  name = "Projects"
-#  url = "#projects"
+#  url = "#project"
 #  weight = 3
 
 #[[menu.main]]
@@ -131,8 +134,8 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Contact"
-  url = "#contact"
-  weight = 3
+  url = "contact/#contact"
+  weight = 6
 
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.
