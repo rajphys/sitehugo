@@ -123,9 +123,9 @@ defaultContentLanguageInSubdir = false
 
 
 #[[menu.main]]
-#  name = "Projects"
-#  url = "#project"
-#  weight = 3
+#  name = "Research"
+#  url = "research/"
+#  weight = 5
 
 #[[menu.main]]
 #  name = "Teaching"
