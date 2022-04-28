@@ -32,7 +32,7 @@ Micropumps that propel fluids using energy derived from chemical reactions or ph
 
 <h2> Segregation of different sized microparticles</h2>   We demonstrated how light-induced fluid pumps can be harnessed to separate different sized microparticles. A UV light source is used to generate thermal buoyancy driven convective flows in a microchamber that is inclined at an angle with respect to the horizontal axis. Competition between the drag force imposed by this convective fluid flows and the gravitational force acting on the differently sized microparticles gives rise to their spontaneous separation along the bottom of an inclined microchamber. <br> [Manna et al,  ACS Appl. Mater. Interfaces <b> 11 </b>, 19 (2019)](https://doi.org/10.1021/acsami.9b03089) <br> [Kauffman et al, ChemNanoMat <b> 7</b>, 805 (2021)](https://doi.org/10.1002/cnma.202100082)
 {{< rawhtml >}} 
-<video width=100% controls autoplay>
+<video width=100% controls autoplay loop>
     <source src="/img/V3s.mp4" type="video/mp4">
     Your browser does not support the video tag.  
 </video>
@@ -42,7 +42,7 @@ Micropumps that propel fluids using energy derived from chemical reactions or ph
 <h2> Independent control over surface and bulk fluid flows</h2>   We develop a standalone fluidic device that is driven by light and operates without the need for external electrical or mechanical pumps. The light initiates a photochemical reaction in the solution; the release of chemical energy from the reaction is transduced into the spontaneous motion of the surrounding fluid. The generated flow is driven by two simultaneously occurring mechanisms: solutal buoyancy that controls the motion of the bulk fluid and diffusioosmosis that regulates motion near the bottom of the chamber. Consequently, the bulk and surface fluid flows can be directed independently of one another. We demonstrate that this exceptional degree of spatiotemporal control provides a new method for autonomously transporting different-sized particles in opposite directions within the chamber. <br> [Tansi et al, ACS Appl. Mater. Interfaces <b> 13 </b>, 5 (2021)](https://doi.org/10.1021/acsami.0c21291)
 {{< rawhtml >}} 
 
-<video width=100% controls autoplay>
+<video width=100% controls autoplay loop>
     <source src="/img/VideoS4.mp4" type="video/mp4">
     Your browser does not support the video tag.  
 </video>

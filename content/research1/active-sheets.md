@@ -33,8 +33,8 @@ The ability to translate chemical cues into mechanical action is a defining feat
 <h2> Self-morphing of active sheets</h2>   Two-dimensional responsive materials that change shape into complex three-dimensional structures are valuable for creating systems ranging from wearable electronics to soft robotics. We use catalyst-coated elastic sheets to generate controllable fluid flows, which transform the sheets into complex 3D shapes. Moreover, a single sheet   that encompasses multiple catalytic domains can be transformed into a variety of 3D shapes through the addition of one or more reactants. Materials systems that morph on-demand into a variety of distinct structures can simplify manufacturing processes and broaden the utility of soft materials. <br>[Manna et al,  Mater. Horiz. <b> 7</b>, 2314 (2020)](https://doi.org/10.1039/D0MH00730G)
 {{< rawhtml >}} 
 
-<video width=100% controls autoplay>
-    <source src="/img/MovieS1.mp4" type="video/mp4">
+<video width=100% controls autoplay loop>
+    <source src="/img/sa-second.mp4" type="video/mp4">
     Your browser does not support the video tag.  
 </video>
 
@@ -44,8 +44,8 @@ The ability to translate chemical cues into mechanical action is a defining feat
 <h2> Self-oscillatory behavior of active sheets</h2>    Self-oscillating systems are resplendent in biology, enabling the beating of the heart, and the self-organization of slime mold. Through modeling, we design bio-inspired materials systems that spontaneously form shape-changing, self-oscillators, which communicate to synchronize both their temporal and spatial behavior. The distinctive combination of the hydrodynamic, fluid-structure, and steric interactions causes two sheets to form coupled oscillators, whose motion is synchronized in time and space. This breadth of dynamic behavior expands the functionality of the coupled oscillators, enabling soft robots to display a variety of self-sustained, self-regulating moves. <br> [Manna et al, Proc. Natl. Acad. Sci. U.S.A. <b> 118</b>, 12 (2021)](https://www.pnas.org/content/118/12/e202298711)
 {{< rawhtml >}} 
 
-<video width=100% controls autoplay>
-    <source src="/img/MovieS1-so.mp4" type="video/mp4">
+<video width=100% controls autoplay loop>
+    <source src="/img/sa-tog-hmax27.mp4" type="video/mp4">
     Your browser does not support the video tag.  
 </video>
 

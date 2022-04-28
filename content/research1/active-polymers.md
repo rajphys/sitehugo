@@ -38,7 +38,7 @@ are limited to passive systems. Here, we extend these studies to the
 case of active polymers in spherical confinement. We find that at moderate polymer densities, spontaneous and persistent collective motion of extensile polymers leads to chain entanglement which cannot be released through active reptation.  On the contrary, contractile polymers always form entangled state independent of density. <br> [Manna et al, Soft Matter <b> 15</b>, 477  (2019)](https://www.nature.com/articles/s42254-021-00395-2)
 {{< rawhtml >}} 
 
-<video width=100% controls autoplay>
+<video width=100% controls autoplay loop>
     <source src="/img/volume-extensile-a30.mp4" type="video/mp4">
 </video>
 
@@ -57,7 +57,7 @@ non-equilibrium kinetic routes to polymeric structures that are otherwise
 difficult to obtain in equilibrium. <br>[Manna et al, Soft Matter <b> 15</b>, 477  (2019)](https://www.nature.com/articles/s42254-021-00395-2)
 {{< rawhtml >}} 
 
-<video width=100% controls autoplay>
+<video width=100% controls autoplay loop>
     <source src="/img/surface-a30-phis-0p64-2nd.mp4" type="video/mp4">
 </video>
 
@@ -69,7 +69,7 @@ colloidal chains</h2>    We demonstrate that flexibility enhances the diffusivit
 <br> [Biswas et al, ACS Nano <b> 11</b>, 10 (2017)](https://doi.org/10.1021/acsnano.7b04265)
 {{< rawhtml >}} 
 
-<video width=100% controls autoplay>
+<video width=100% controls autoplay loop>
     <source src="/img/active-colloidal-chain.mp4" type="video/mp4">
     Your browser does not support the video tag.  
 </video>
@@ -81,7 +81,7 @@ colloidal chains</h2>    We demonstrate that flexibility enhances the diffusivit
 external fields. We demonstrate the ballistic transport of a colloidal sphere using internal sources of energy provided by an attached active filament. The speed and efficiency of transport depend on the dynamical conformational states of the filament.This transport mechanism has a remarkable resemblance to the flagellar propulsion of microorganisms which suggests its utility in biomimetic systems.<br>[Manna et al,   J. Chem. Phys. <b>  146</b> , 024901 (2017)](https://doi.org/10.1063/1.4972010)
 {{< rawhtml >}} 
 
-<video width=100% controls autoplay>
+<video width=100% controls autoplay loop>
     <source src="/img/movie-helical.mp4" type="video/mp4">
     Your browser does not support the video tag.  
 </video>
