@@ -1,7 +1,7 @@
 baseurl = "http://rajphys.github.io"
 title = "Raj Kumar Manna"
 #copyright = "&copy; 2016 Raj Kumar Manna"
-theme = "academic"
+theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 
@@ -17,6 +17,9 @@ defaultContentLanguageInSubdir = false
 
 [blackfriday]
   hrefTargetBlank = true
+
+[image]
+  preview_only = true
 
 [params]
   name = "Raj Kumar Manna"
@@ -47,7 +50,7 @@ defaultContentLanguageInSubdir = false
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
   #custom_css = ["green.css"]
-  custom_js  = []
+  #custom_js  = []
 
 
   # Social/Academic Networking
@@ -126,11 +129,17 @@ defaultContentLanguageInSubdir = false
 #  name = "Research"
 #  url = "research/"
 #  weight = 5
+  
+  
+  [[menu.main]]
+  name = "Research"
+  url = "research1/"
+  weight = 5
 
 #[[menu.main]]
-#  name = "Teaching"
-#  url = "#teaching"
-#  weight = 4
+#  name = "Project"
+#  url = "#project"
+#  weight = 5
 
 [[menu.main]]
   name = "Contact"
