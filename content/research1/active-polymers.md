@@ -7,7 +7,7 @@ date = "2022-04-23"
 title = "Active polymers"
 
 # Project summary to display on homepage.
-summary = "Active polymers are composed of units which can produce fluid flow around it. Depending on the nature of the activity and the domain, the polymers produce a series of spontaneous motion.  For instance, extensile semiflexible polymers produce autonomous motion  driven by the active flows and contractile polymers shows rotational motion when confined in a spherical cavity. Our study fouces on the collective dynamics of active polymers in confined geometry and demonstrates the dynamic formation of knots and links, nonequilibrium  transition between isotropic and liquid crystalline states and athermal creation and annihilation of different kind of defects.  Moreover, the non-equilibrium fluid flows produced by atcive polymers can be harnessed with smart designs  to transport vesicles ballistically. [![active-polymers](/img/active-polymers.png)](/research1/active-polymers/)  <ul> <li>[Manna et al,   J. Chem. Phys. <b>  146</b> , 024901 (2017)](https://doi.org/10.1063/1.4972010)</li> <li>[Biswas et al, ACS Nano <b> 11</b>, 10 (2017)](https://doi.org/10.1021/acsnano.7b04265)</li> <li>[Manna et al, Soft Matter <b> 15</b>, 477  (2019)](https://www.nature.com/articles/s42254-021-00395-2)</li></ul> <hr> "
+summary = "Active polymers are composed of units which can produce fluid flow around it. Depending on the nature of the activity and the domain, the polymers produce a series of spontaneous motion.  For instance, extensile semiflexible polymers produce autonomous motion  driven by the active flows and contractile polymers shows rotational motion when confined in a spherical cavity. Our study fouces on the collective dynamics of active polymers in confined geometry and demonstrates the dynamic formation of knots and links, nonequilibrium  transition between isotropic and liquid crystalline states and athermal creation and annihilation of different kind of defects.  Moreover, the non-equilibrium fluid flows produced by atcive polymers can be harnessed with smart designs  to transport vesicles ballistically. [![active-polymers](/img/active-polymers.png)](/research1/active-polymers/)  <ul> <li>[Manna et al,   J. Chem. Phys. <b>  146</b> , 024901 (2017)](https://doi.org/10.1063/1.4972010)</li> <li>[Biswas et al, ACS Nano <b> 11</b>, 10 (2017)](https://doi.org/10.1021/acsnano.7b04265)</li> <li>[Manna et al, Soft Matter <b> 15</b>, 477  (2019)](https://doi.org/10.1039/C8SM01981A)</li></ul> <hr> "
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 #image_preview = "vprofile.png"
@@ -35,7 +35,7 @@ its connectivity, allows all polymer fluids to contain entanglements to some deg
 The effect of these entanglements is explored and studied in detail by the 
 reptation model first proposed by de-Gennes. However, such theories 
 are limited to passive systems. Here, we extend these studies to the 
-case of active polymers in spherical confinement. We find that at moderate polymer densities, spontaneous and persistent collective motion of extensile polymers leads to chain entanglement which cannot be released through active reptation.  On the contrary, contractile polymers always form entangled state independent of density. <br> [Manna et al, Soft Matter <b> 15</b>, 477  (2019)](https://www.nature.com/articles/s42254-021-00395-2)
+case of active polymers in spherical confinement. We find that at moderate polymer densities, spontaneous and persistent collective motion of extensile polymers leads to chain entanglement which cannot be released through active reptation.  On the contrary, contractile polymers always form entangled state independent of density. <br> [Manna et al, Soft Matter <b> 15</b>, 477  (2019)](https://doi.org/10.1039/C8SM01981A)
 {{< rawhtml >}} 
 
 <video width=100% controls autoplay loop>
@@ -54,7 +54,7 @@ remarkably, are neither created or annihilated in pairs. Instead, defects
 appear and disappear through active reptation of individual polymer. Our results 
 reproduce the phenomenology of several recent experiments and suggest 
 non-equilibrium kinetic routes to polymeric structures that are otherwise 
-difficult to obtain in equilibrium. <br>[Manna et al, Soft Matter <b> 15</b>, 477  (2019)](https://www.nature.com/articles/s42254-021-00395-2)
+difficult to obtain in equilibrium. <br>[Manna et al, Soft Matter <b> 15</b>, 477  (2019)](https://doi.org/10.1039/C8SM01981A)
 {{< rawhtml >}} 
 
 <video width=100% controls autoplay loop>
