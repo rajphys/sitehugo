@@ -24,12 +24,12 @@ defaultContentLanguageInSubdir = false
 [params]
   name = "Raj Kumar Manna"
   role = "Postdoctoral Scholar "
-  organization = "University of Pittsburgh"
+  organization = "Syracuse University"
   avatar = "raj1.jpg"
-  email = "rkm36@pitt.edu"
-  address = "313 Schenley Place, 4420 Bayard Street, University of Pittsburgh, Pittsburgh, PA 15213"
+  email = "rmanna@syr.edu"
+  address = "229D Physics Building, Department of Physics, Syracuse University, Syracuse, NY 13244"
   office_hours = ""
-  phone = "+1 412-648-9250"
+  phone = "+1 (315) 443-3901"
   skype = ""
   telegram = ""
 
