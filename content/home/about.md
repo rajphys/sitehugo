@@ -43,7 +43,7 @@ weight = 1
 
 # Biography
 
-I am currently a postdoctoral research associate in the group of [Prof. Anna Balazs](https://www.engineering.pitt.edu/AnnaBalazs/) at the Department of Chemical and Petroleum Engineering, University of Pittsburgh. My research interests are in the area of non-equilibrium soft condensed matter and biological physics. I use computer simulations to study the complex structures and dynamics of these systems. 
+I am currently a postdoctoral research associate in the group of [Prof M. Lisa Manning](https://mmanning.expressions.syr.edu/) at the Department of Physics, Syracuse University. Prior to that I have worked as a postdoctoral associate in the group of [Prof. Anna Balazs](https://www.engineering.pitt.edu/AnnaBalazs/) at the Department of Chemical Engineering, University of Pittsburgh. My research interests are in the area of non-equilibrium soft condensed matter and biological physics. I use computer simulations to study the complex structures and dynamics of these systems. 
 
 I received my Ph.D. degree from the Department of Physics, Indian Institute of Technology Madras under the guidance of 
  [Prof. P B Sunil Kumar](https://physics.iitm.ac.in/sunil/) and [Prof. Ronojoy Adhikari](https://ronojoy.github.io/). 
