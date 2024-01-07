@@ -23,13 +23,13 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Raj Kumar Manna"
-  role = "Postdoctoral Scholar "
-  organization = "Syracuse University"
+  role = "Postdoctoral Associate "
+  organization = "Northeastern University"
   avatar = "raj1.jpg"
-  email = "rmanna@syr.edu"
-  address = "229D Physics Building, Department of Physics, Syracuse University, Syracuse, NY 13244"
+  email = "r.manna@northeastern.edu"
+  address = "177 Huntington Ave, Center for Theoretical Biological Physics, Department of Physics, Northeastern University, Boston, MA 02115"
   office_hours = ""
-  phone = "+1 (315) 443-3901"
+  phone = "+1 617-373-3584"
   skype = ""
   telegram = ""
 
