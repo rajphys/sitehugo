@@ -1,7 +1,7 @@
 +++
 abstract = ""
 abstract_short = ""
-authors = ["  Erin McCarthy, Raj Kumar Manna, Ojan Damavandi, M Lisa Manning"]
+authors = ["  Oleg E. Shklyaev ; Raj Kumar Manna ; Abhrajit Laskar ; Joshua E. Kauffman ; Benjamin M. Tansi ; Ayusman Sen ; Anna C. Balazs"]
 date = "2023-03-04"
 image = ""
 image_preview = ""
