@@ -1,7 +1,7 @@
 +++
 abstract = ""
 abstract_short = ""
-authors = ["Kandiledath Jayasree, Raj Kumar Manna, Debapriya Banerjee, and P. B. Sunil Kumar"]
+authors = ["Kandiledath Jayasree<sup>#</sup>, Raj Kumar Manna<sup>#</sup>, Debapriya Banerjee, and P. B. Sunil Kumar"]
 date = "2013-09-01"
 image = ""
 image_preview = ""
